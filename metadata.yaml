@@ -1,0 +1,31 @@
+_repo: The-Story-of-Chartres_46662
+contributor:
+  illustrator:
+    agent_name: Railton, Herbert
+    birthdate: 1857
+    deathdate: 1910
+    gutenberg_agent_id: '42184'
+    url: http://www.gutenberg.org/2009/agents/42184
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Railton
+covers:
+- cover_type: archival
+  image_path: 46662/46662-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Headlam, Cecil
+    gutenberg_agent_id: '43693'
+    url: http://www.gutenberg.org/2009/agents/43693
+description: ''
+gutenberg_bookshelf: Mediæval Town Series
+gutenberg_issued: '2014-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Story of Chartres
+url: http://www.gutenberg.org/ebooks/46662
